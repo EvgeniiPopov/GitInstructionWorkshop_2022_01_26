@@ -544,4 +544,14 @@ git rebase --abort
 
 ## Книги и полезные ссылки по изучению git.
 
+> [git reference](https://git-scm.com/docs)
+
+> [git learn](https://learngitbranching.js.org/?locale=ru_RU)
+
+>[git wiki](https://git.wiki.kernel.org/index.php/Main_Page)
+
+
+
+
+
 ## Альтернативные системы контроля версий.
